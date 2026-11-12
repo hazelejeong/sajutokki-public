@@ -1,0 +1,4 @@
+# Project-site copy. The effective host policy is https://hazelejeong.github.io/robots.txt
+User-agent: *
+Allow: /sajutokki-public/
+Sitemap: https://hazelejeong.github.io/sajutokki-public/sitemap.xml

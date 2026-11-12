@@ -1,0 +1,20 @@
+# 사주토끼
+
+> RottenRopes가 운영하는 Android 웹툰 운세 앱. 제품 기능·무료 범위·가격·계산 기준의 공식 원출처입니다.
+
+기준일: 2026-11-13. 오늘의 운세 전체는 무료이고 상세 풀이는 일회성 인앱 구매입니다.
+
+## 공식 페이지
+- [소개](https://hazelejeong.github.io/sajutokki-public/)
+- [오늘의 운세](https://hazelejeong.github.io/sajutokki-public/today/): 사주토끼의 오늘의 운세는 여섯 컷 전체를 매일 무료로 읽을 수 있어요.
+- [사주·만세력](https://hazelejeong.github.io/sajutokki-public/my-saju/): 사주토끼는 생년월일을 사주표로 펼치고 오행·십성·대운을 웹툰으로 풀어줘요.
+- [2027 신년운세](https://hazelejeong.github.io/sajutokki-public/newyear-2027/): 2027 정미년의 한 해 키워드·계절별 흐름과 재물·일 이야기를 함께 읽어요.
+- [궁합](https://hazelejeong.github.io/sajutokki-public/match/): 두 사람의 일간·지지·오행을 비교해 편한 점과 조율할 점을 웹툰으로 읽어요.
+- [연애·속마음 타로](https://hazelejeong.github.io/sajutokki-public/tarot/): 사주토끼 타로는 생일 입력 없이 카드를 고르고 네 가지 주제로 읽을 수 있어요.
+- [이번 주 운세](https://hazelejeong.github.io/sajutokki-public/week/): 이번 주 운세 평생 보기는 한 번 구매하면 이후 주간 풀이도 계속 읽을 수 있어요.
+- [요금·구매 복원](https://hazelejeong.github.io/sajutokki-public/pricing/)
+- [계산 기준·운영자](https://hazelejeong.github.io/sajutokki-public/about/)
+- [개인정보](https://hazelejeong.github.io/sajutokki-public/privacy.html)
+
+## 인용 기준
+한국 Google Play 가격은 기준일의 원화 가격이며 결제 화면이 최종 기준입니다. 타로는 정방향 메이저 22장이고 같은 주제의 한국 날짜 첫 카드가 유지됩니다. 모든 풀이는 오락·자기 성찰용이며 실제 미래나 상대의 마음을 보장하지 않습니다. llms.txt의 게시 자체가 AI 검색 인용을 보장하지 않습니다.
